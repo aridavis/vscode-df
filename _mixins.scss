@@ -1,0 +1,124 @@
+@mixin dfjcfsaic {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+@mixin dfjcfsaifs {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+@mixin dfjcfsaife {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+@mixin dfjcfsaib {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+@mixin dfjcfeaic {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+@mixin dfjcfeaifs {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+@mixin dfjcfeaife {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+@mixin dfjcfeaib {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+@mixin dfjccaic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@mixin dfjccaifs {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+@mixin dfjccaife {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+@mixin dfjccaib {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+@mixin dfjcsbaic {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+@mixin dfjcsbaifs {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+@mixin dfjcsbaife {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+@mixin dfjcsbaib {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+@mixin dfjcsaaic {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+@mixin dfjcsaaifs {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+@mixin dfjcsaaife {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+@mixin dfjcsaaib {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+}
+@mixin dfjciaic {
+  display: flex;
+  justify-content: inherit;
+  align-items: center;
+}
+@mixin dfjciaifs {
+  display: flex;
+  justify-content: inherit;
+  align-items: flex-start;
+}
+@mixin dfjciaife {
+  display: flex;
+  justify-content: inherit;
+  align-items: flex-end;
+}
+@mixin dfjciaib {
+  display: flex;
+  justify-content: inherit;
+  align-items: baseline;
+}
+
+@mixin fdc {
+  flex-direction: column;
+}

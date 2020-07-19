@@ -1,0 +1,124 @@
+.dfjcfsaic {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.dfjcfsaifs {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.dfjcfsaife {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+.dfjcfsaib {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+.dfjcfeaic {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.dfjcfeaifs {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+.dfjcfeaife {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+.dfjcfeaib {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+.dfjccaic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dfjccaifs {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.dfjccaife {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+.dfjccaib {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+.dfjcsbaic {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.dfjcsbaifs {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.dfjcsbaife {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.dfjcsbaib {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+.dfjcsaaic {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.dfjcsaaifs {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+.dfjcsaaife {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+.dfjcsaaib {
+  display: flex;
+  justify-content: space-around;
+  align-items: baseline;
+}
+.dfjciaic {
+  display: flex;
+  justify-content: inherit;
+  align-items: center;
+}
+.dfjciaifs {
+  display: flex;
+  justify-content: inherit;
+  align-items: flex-start;
+}
+.dfjciaife {
+  display: flex;
+  justify-content: inherit;
+  align-items: flex-end;
+}
+.dfjciaib {
+  display: flex;
+  justify-content: inherit;
+  align-items: baseline;
+}
+
+.fdc {
+    flex-direction: column;
+}
