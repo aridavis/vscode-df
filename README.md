@@ -1,6 +1,8 @@
 # What is this?
 
-VS Code has abbrevation for css extensions. And this repository contains all the abbrevation.
+![Sample of VS Code Abbreviation](image/sample.png)
+
+VS Code has abbrevation for css extensions. And this repository contains all the abbrevation, so it won't take a long time to wait for the abbreviation.
 
 # Abbreviation format
 
