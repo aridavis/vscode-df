@@ -118,7 +118,9 @@
   justify-content: inherit;
   align-items: baseline;
 }
-
 .fdc {
     flex-direction: column;
+}
+.w100{
+    width: 100%; 
 }
